@@ -1,17 +1,15 @@
 {
-  "name": "Snake-node",
-  "version": "1.0.0",
-  "description": "Simple snake game",
-  "main": "index.js",
-  "dependencies": {
-    "readline": "^1.3.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Snake"
-  ],
-  "license": "ISC"
-}
+    "name": "node-app",
+    "description": "hello jenkins test app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+       "express": "3.12.0"
+    },
+    "devDependencies": {
+       "mocha": "10.2.0",
+       "supertest": "6.3.3"
+    }
+   }
+
+
